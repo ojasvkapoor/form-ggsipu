@@ -1,0 +1,70 @@
+.col-auto{ 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 0.1cm;
+ }
+
+ h2{  
+ color: green;
+ font-family:Algerian;
+font-size :40px;
+border: 10px solid black
+  }
+
+  p{
+
+ font-family:arial ;
+font-size :25px;
+border: 10px solid green
+
+
+  }
+
+  ol{
+ font-family: unset;
+font-size : 25px;
+
+  }
+  h3{
+
+ font-family:monospace;
+font-size :50px;
+border: 10px solid red
+
+  }
+
+ .alpha-text{
+color: 000000;
+ font-family:cursive;
+font-size :25px;
+
+ }
+
+ #aboutcss { 
+  font-family:monospace;
+ font-family:cursive;
+border: 10px solid black
+
+  }
+
+  img{ 
+border: 10px solid black
+   }
+
+   .pp{
+text-shadow: "50%";
+border: 10px solid red;
+line-height: 30px;
+font-size: 25px;
+   }
+
+.main{
+   font: 1000;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+  align-items: flex-end;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   background-image: url('https://cdn.vectorstock.com/i/1000x1000/09/00/background-with-wavy-abstract-form-blue-vector-20700900.webp');
+   size: 2cm;
+   align-items: center;
+}
